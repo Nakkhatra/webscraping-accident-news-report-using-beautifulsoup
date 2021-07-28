@@ -1,4 +1,4 @@
-# webscraping-accident-news-report-using-beautifulsoup
+# webscraping accident news report using beautifulsoup
 
 In this repo, I have scraped road accident news reports data (Headlines, urls etc) from the website of a news paper named the Daily Observer Bangladesh, using python and beautifulsoup. Later I did some cleaning on the scraped data with regular expressions and also separated the rows with/without injuy news. 
 
